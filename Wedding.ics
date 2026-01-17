@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Tak & Natalie//Wedding Day//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:tak-natalie-wedding-20260425@calendar
+DTSTAMP:20260117T200000Z
+DTSTART;TZID=America/Toronto:20260425T140000
+DTEND;TZID=America/Toronto:20260425T150000
+SUMMARY:Tak & Natalie's Big Day 💍
+LOCATION:Markham Civic Centre\, 101 Town Centre Blvd\, Markham ON L3R 9W3\, Canada
+DESCRIPTION:Tak & Natalie 的婚禮儀式 🤍\n\n日期: 2026 年 4 月 25 日\n時間: 下午 2:00 - 3:00(多倫多時間)\n地點: Markham Civic Centre\n場地: Wedding Chapel\n\n好期待到時見到你!
+END:VEVENT
+END:VCALENDAR
